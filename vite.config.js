@@ -7,5 +7,6 @@ export default defineConfig({
   esbuild: {
     
     target: 'es6'
-  }
-})
+  },
+  
+});
